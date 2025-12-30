@@ -10,7 +10,7 @@
 <img 
   align="right" 
   width="170" 
-  src="https://github.com/edileneermano-crypto/assets/blob/main/images/perfil-edilene.png.png"
+  src="https://github.com/edileneermano-crypto/assets/blob/main/images/perfil-edilene.png"
 />
 
 ---

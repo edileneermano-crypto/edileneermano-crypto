@@ -6,15 +6,6 @@
   </span>
 </h2>
 
-<!-- Foto profissional -->
-<img 
-  align="right" 
-  width="170" 
-  src="https://github.com/edileneermano-crypto/assets/blob/main/images/perfil-edilene.png"
-/>
-
----
-
 ### 👩‍💻 Sobre mim
 <p align="left">
 Sou apaixonada por tecnologia e aprendizado contínuo.  

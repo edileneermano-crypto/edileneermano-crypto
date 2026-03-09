@@ -32,19 +32,6 @@ para <strong>Full Stack</strong>, explorando back-end, APIs e banco de dados.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" />
 </div>
 
----
-
-### 📊 GitHub Stats
-<div align="left">
-  <img 
-    height="160" 
-    src="https://github-readme-stats.vercel.app/api?username=edileneermano-crypto&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-  <img 
-    height="160" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=edileneermano-crypto&theme=tokyonight&hide_border=true"
-  />
-</div>
 
 ---
 
